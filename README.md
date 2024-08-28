@@ -1,7 +1,7 @@
-## Hello there 🌐👋
+## Hello there 🌐🏹☮️
 
 
-<h1 align="center">I'm Parth Travadi 😃</h1> 
+<h1 align="center">I'm Parth Travadi 🪷🏹😃</h1> 
 <h3 align="center">I'm an adaptable DevSecOps Engineer from India disciplined about Enterprise Cloud Native Engineering. After working in corporate and non-profits, I believe lifelong learning is the solution to many societal issues.</h3>
 
 <h3 align="left">Connect with me:</h3>
