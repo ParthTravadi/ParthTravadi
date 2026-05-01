@@ -37,7 +37,7 @@ After working for corporations and non-profits, I believe lifelong learning is t
   </tr>
 </table>
 
-<h3 align="left">DevSecOps / Platform Engineering:</h3>
+<h3 align="left">DevOps / Platform Engineering:</h3>
 <table>
   <tr>
     <td><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a></td>
