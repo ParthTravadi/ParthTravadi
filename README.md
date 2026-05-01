@@ -55,19 +55,6 @@ After working for corporations and non-profits, I believe lifelong learning is t
   </tr>
 </table>
 
-<h3 align="left">Security / Scanning / Supply Chain:</h3>
-<table>
-  <tr>
-    <td><a href="https://github.com/marketplace/codeql" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="CodeQL" width="40" height="40" /></a></td>
-    <td><a href="https://sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://www.sonarsource.com/wp-content/themes/sonarsource/home/assets/img/sonarqube-logo.svg" alt="SonarQube" width="40" height="40" /></a></td>
-    <td><a href="https://snyk.io/" target="_blank" rel="noreferrer"><img src="https://snyk.io/wp-content/uploads/press-kit/logo-vertical-red.svg" alt="Snyk" width="40" height="40" /></a></td>
-    <td><a href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/docs/images/trivy.png" alt="Trivy" width="40" height="40" /></a></td>
-    <td><a href="https://www.checkov.io/" target="_blank" rel="noreferrer"><img src="https://www.checkov.io/images/checkov-logo.svg" alt="Checkov" width="40" height="40" /></a></td>
-    <td><a href="https://slsa.dev/" target="_blank" rel="noreferrer"><img src="https://slsa.dev/images/slsa-logo.svg" alt="SLSA" width="40" height="40" /></a></td>
-    <td><a href="https://spdx.dev/" target="_blank" rel="noreferrer"><img src="https://spdx.dev/wp-content/uploads/sites/3/2020/01/spdx-logo.svg" alt="SBOM / SPDX" width="40" height="40" /></a></td>
-  </tr>
-</table>
-
 <h3 align="left">Languages:</h3>
 <table>
   <tr>
