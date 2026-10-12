@@ -1,4 +1,4 @@
-## Hello there 🌐🏹☮️
+## Hello there, 🌐🏹☮️
 
 <h1 align="center">I'm Parth Travadi 🪷🏹😃</h1>
 
